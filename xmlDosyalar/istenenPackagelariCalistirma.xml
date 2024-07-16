@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+
+<!--
+    GOREV 2 :   day17 ve day18'deki tum
+                class'lari toplu olarak calistirin
+-->
+
+<suite name="istenen package'lari calistirma">
+
+    <test name="B1 testi">
+
+        <packages>
+
+            <package name="Tests.day21xmlFiles_HTMLReport"></package>
+
+
+        </packages>
+
+    </test>
+
+</suite>
